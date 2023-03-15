@@ -27,7 +27,8 @@ h1{display: inline;
 }
 
 
-/* MAIN  1st section */
+/* Body */
+
 .conteiner{
         margin-top: 5%;
         margin-left: 10%;
@@ -66,7 +67,6 @@ hr{
 .check{
     color: rgb(30, 184, 30);
     border: 1px solid green;
-    
 }
 
 .refuse{
@@ -82,12 +82,15 @@ section div {
 padding-bottom: 1%;
 }
 
+/* Colors  */
+
 .blue,.violet,.green,.orange{
     padding: 8px;
     border-radius: 14px;
     color: white;
     font-size: 10px;
 }
+
 .blue{
     background-color: rgb(0, 174, 255);
 }
